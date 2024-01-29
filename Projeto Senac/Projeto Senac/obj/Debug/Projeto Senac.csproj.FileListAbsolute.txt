@@ -1,0 +1,23 @@
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\bin\Debug\Projeto Senac.exe.config
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\bin\Debug\Projeto Senac.exe
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\bin\Debug\Projeto Senac.pdb
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto Senac.csproj.AssemblyReference.cache
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto Senac.csproj.SuggestedBindingRedirects.cache
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto_Senac.home.resources
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto_Senac.Properties.Resources.resources
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto Senac.csproj.GenerateResource.cache
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto Senac.csproj.CoreCompileInputs.cache
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto Senac.exe
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto Senac.pdb
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto_Senac.mnprincipal.resources
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto_Senac.cadreset.resources
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto_Senac.Entrada_de_estoque.resources
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto_Senac.game_add.resources
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto_Senac.entconsole.resources
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto_Senac.entgift.resources
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto_Senac.estoque.resources
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto_Senac.gamespesquisa.resources
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto_Senac.consoleest.resources
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto_Senac.estgift.resources
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto_Senac.caixa.resources
+C:\Users\davi.rmvila.SENACEDU\source\repos\Projeto Senac\Projeto Senac\obj\Debug\Projeto_Senac.caixaest.resources
