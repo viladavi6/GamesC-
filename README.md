@@ -1,15 +1,19 @@
-PROJETO DO MEU CURSO COM TEMA DE LOJA DE JOGOS
+# Projeto do Curso no Senac de C#
 
--  Foi feito o CRUD conectando com um banco de dados no SQL Server, nesse projeto bem siimples,
+-  Foi feito o CRUD conectando com um banco de dados no SQL Server, nesse projeto bem simples,
 é possível fazer:
 
--  Cadastro de Usuário;
--  Reset de senha;
--  Entrada de produtos, sem o conceito de Nota Fiscal;
--  Correção de dados no banco.
+| Requisítos | Atendido |
+|------------|----------|
+|Cadastro de Usuário| Sim |
+|Reset de senha | Sim |
+|Entrada de produtos, sem o conceito de Nota Fiscal| Sim |
+|Correção de dados no banco| Sim |
 
--  Infelizmente não consegui terminar o caixa, por conta de outras demandas, mas por não ser obrigatório,
-o projeto foi entregado desta forma, futuramente, se possível faço correções.
+# 📃 Pontos Finais
+
+-  Infelizmente não foi possível terminar o caixa, o tempo do módulo estava acabando e nao era necessário para o projeto,
+o principal era apanas o crud e a conexão com o banco.
 
 
 
